@@ -3,9 +3,9 @@ body {
   color: #dddddd;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
-  background-color: #cda32a;
+  background-color: #f7eee6;
 opacity: 0.8;
-background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #cda32a 8px ), repeating-linear-gradient( #f2cd8855, #f2cd88 );
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #f7eee6 10px ), repeating-linear-gradient( #f7454555, #f74545 );
 }
 
 .exp-header {
